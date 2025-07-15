@@ -1,6 +1,6 @@
 public class flipkart3
 {
- main(String []args)
+ public static void main(String []args)
  {
 
   }
